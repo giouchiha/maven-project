@@ -1,7 +1,1 @@
-                 (__)
-                 (oo)
-           /------\/
-          / |    ||
-         *  /\---/\
-            ~~   ~~
-..."Have you mooed today?"...
+"Have you mooed today?"
